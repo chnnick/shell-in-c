@@ -1,0 +1,14 @@
+---
+:id: 281810403
+:submitters:
+- :name: Nicholas Chen
+  :email: chen.nich@northeastern.edu
+- :name: Nethan Madhav
+  :email: madhav.ne@northeastern.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-10-25 01:59:43.214359000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-10-24 18:59:43.214359000 Z
+:status: processed
+:score: 94.0
