@@ -2,6 +2,8 @@
 
 Welcome to **Mini-Shell**, a lightweight shell application implemented in C. This shell mimics basic Linux shell functionalities with support for command execution, I/O redirection, piping, and several built-in commands.
 
+Built in C for NU SYSTEMS, PLAGIARISM IS MASSIVELY DISCOURAGED
+
 ## Features
 
 ### General Command Execution
